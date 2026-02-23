@@ -1,0 +1,10 @@
+[package]
+name = "rust_exercises"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "pig_latin"
+path = "src/pig_latin/main.rs"
+
+[dependencies]
