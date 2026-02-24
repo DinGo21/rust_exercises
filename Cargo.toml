@@ -7,4 +7,12 @@ edition = "2024"
 name = "pig_latin"
 path = "src/pig_latin/main.rs"
 
+[[bin]]
+name = "median_mode"
+path = "src/median_mode/main.rs"
+
+[[bin]]
+name = "departments"
+path = "src/departments/main.rs"
+
 [dependencies]
